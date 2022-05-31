@@ -1,15 +1,15 @@
 
 ***
 
-# <projectName>
+# Virtual City Playground
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![VCP_ICO.jpeg This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/VCP_ICO.jpeg)
 
 # By:
 
-<!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
+![G5_Games_Logo.jpeg This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/G5_Games_Logo.jpeg)
 
-## [<developerName>](https://github.com/<developerName>)
+## G5 Games
 
 ### Top
 
@@ -106,14 +106,14 @@ GitHub
 Other
 !-->
 
-# <repoName>
-<repo_description>
+# SeansLifeArchive_Images_Virtual-City-Playground
+The module for my life story project that contains my images of the game Virtual City Playground, a game I enjoyed in the past and recently had renewed nostalgia for (2021)
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. I had renewed nostalgia for this game in 2021 and played for a little over a month. I made back all my original progress, then quit for good.
 
 ***
 
@@ -141,7 +141,7 @@ No Modern history to show for this project.
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki/)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SeansLifeArchive_Images_Virtual-City-Playground/wiki/)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -209,7 +209,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is not allowed for others, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 189 commits (As of 2022, Monday, May 30th at 8:30 pm PST)
 
 > * 2. No other contributers.
 
@@ -279,9 +279,9 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file A](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file A](Dockerfile)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+[Join the discussion on GitHub](https://github.com/seanpm2001/SeansLifeArchive_Images_Virtual-City-Playground/discussions)
 
 No other resources at the moment.
 
@@ -297,11 +297,11 @@ Contributing is not allowed for this project, as this is a personal project.
 
 ## About README
 
-File type: `Markdown (*.md)`
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-File version: `0.1.6 (Sunday, August 22nd 2021 at 9:58 pm)`
+**File version:** `1 (2022, Monday, May 30th at 8:39 pm PST)`
 
-Line count: `0,397`
+**Line count (including blank lines and compiler line):** `0,413`
 
 ***
 
@@ -369,11 +369,27 @@ Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Coming soon)
+Version 1 (2022, Monday, May 30th at 8:30 pm PST)
 
 > Changes:
 
-> * Coming soon
+> * Updated the file
+
+> * Referenced the game and company logos
+
+> * Updated the about section
+
+> * Updated the description section
+
+> * Updated the developers section
+
+> * Updated the Wiki section
+
+> * Updated the resources section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 1
 
